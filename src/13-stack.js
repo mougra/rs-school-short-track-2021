@@ -25,3 +25,22 @@ class Stack {
 }
 
 module.exports = Stack;
+
+// push(element) {
+//   const stack = new Stack();
+//   return arr.push(element);
+// }
+
+// pop() {
+//   // if (this.lenght === 0) {
+//   const current = this.head;
+//   this.head = this.head.next;
+//   this.lenght--;
+//   return current.value;
+// }
+
+// peek() {
+//   console.log(this.head.value, this.head);
+//   return this.head;
+// }
+// }
